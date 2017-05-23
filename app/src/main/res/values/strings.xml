@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GuaguasLaPalmaSample</string>
+    <string name="busStopsLayer">https://services.arcgis.com/hkQNLKNeDVYBjvFE/arcgis/rest/services/Transportes/FeatureServer/1</string>
+</resources>
